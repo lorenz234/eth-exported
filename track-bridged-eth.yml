@@ -1,0 +1,142 @@
+Beacon_chain_deposits:
+  ethereum:
+    - ETH:
+      - address: ["0x00000000219ab540356cbb839cbe05303d7705fa"]
+
+WETH:
+  ethereum:
+    - ETH:
+      - address: ["0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"]
+
+Arbitrum:
+  ethereum:
+    - ETH:
+      - address: ["0x8315177ab297ba92a06054ce80a67ed4dbd7ed3a"]
+    - wstETH:
+      - address: ["0x0F25c1DC2a9922304f2eac71DCa9B07E310e8E5a"]
+
+Base:
+  ethereum:
+    - ETH: 
+      - address: ["0x49048044d57e1c92a77f79988d21fa8faf74e97e"]
+    - wstETH: 
+      - address: ["0x9de443AdC5A411E83F1878Ef24C3F52C61571e72"]
+    - cbETH: 
+      - address: ["0x3154Cf16ccdb4C6d922629664174b904d80F2C35"]
+
+Optimism:
+  ethereum:
+    - ETH: 
+      - address: ["0xbEb5Fc579115071764c7423A4f12eDde41f106Ed"]
+    - wstETH: 
+      - address: ["0x76943C0D61395d8F2edF9060e1533529cAe05dE6"]
+
+Scroll:
+  ethereum:
+    - ETH: 
+      - address: ["0x6774Bcbd5ceCeF1336b5300fb5186a12DDD8b367"]
+    - pufETH: 
+      - address: ["0xA033Ff09f2da45f0e9ae495f525363722Df42b2a"]
+    - wstETH: 
+      - address: ["0x6625C6332c9F91F2D27c304E729B86db87A3f504"]
+
+Blast:
+  ethereum:
+    - ETH: 
+      - address: ["0x98078db053902644191f93988341E31289E1C8FE"]
+    - stETH: 
+      - address: ["0x5F6AE08B8AeB7078cf2F96AFb089D7c9f51DA47d", "0x98078db053902644191f93988341E31289E1C8FE"]
+
+Mantle:
+  ethereum:
+    - ETH: 
+      - address: ["0xc54cb22944F2bE476E02dECfCD7e3E7d3e15A8Fb"]
+    - mETH: 
+      - address: ["0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"]
+
+Zksync:
+  ethereum:
+    - ETH: 
+      - address: ["0xD7f9f54194C633F36CCD5F3da84ad4a1c38cB2cB"]
+    - stETH: 
+      - address: ["0x41527B2d03844dB6b0945f25702cB958b6d55989"]
+
+Linea:
+  ethereum:
+    - ETH: 
+      - address: ["0xd19d4B5d358258f05D7B411E21A1460D11B0876F"]
+    - wstETH: 
+      - address: ["0x051F1D88f0aF5763fB888eC4378b4D8B29ea3319"]
+
+Starknet:
+  ethereum:
+    - ETH: 
+      - address: ["0xae0Ee0A63A2cE6BaeEFFE56e7714FB4EFE48D419"]
+    - wstETH: 
+      - address: ["0xBf67F59D2988A46FBFF7ed79A621778a3Cd3985B"]
+
+Manta_Pacific:
+  ethereum:
+    - ETH: 
+      - address: ["0x9168765EE952de7C6f8fC6FaD5Ec209B960b7622"]
+
+Mode:
+  ethereum:
+    - ETH: 
+      - address: ["0x8B34b14c7c7123459Cf3076b8Cb929BE097d0C07"]
+
+Metis:
+  ethereum:
+    - ETH: 
+      - address: ["0x3980c9ed79d2c191A89E02Fa3529C60eD6e9c04b"]
+
+Polygon_zkevm:
+  ethereum:
+    - ETH: 
+      - address: ["0x2a3DD3EB832aF982ec71669E178424b10Dca2EDe"]
+
+Polygon_POS:
+  ethereum:
+    - ETH: 
+      - address: ["0x8484Ef722627bf18ca5Ae6BcF031c23E6e922B30"]
+
+Ronin:
+  ethereum:
+    - ETH: 
+      - address: ["0x64192819Ac13Ef72bF6b5AE239AC672B43a9AF08"]
+
+Avalanche:
+  ethereum:
+    - ETH: 
+      - address: ["0x8EB8a3b98659Cce290402893d0123abb75E3ab28"]
+    - wETH: 
+      - address: ["0x8EB8a3b98659Cce290402893d0123abb75E3ab28"]
+
+PulseChain:
+  ethereum:
+    - wETH: 
+      - address: ["0x1715a3E4A142d8b698131108995174F37aEBA10D"]
+
+Aptos:
+  ethereum:
+    - wETH: 
+      - address: ["0x50002CdFe7CCb0C41F519c6Eb0653158d11cd907"]
+
+Near:
+  ethereum:
+    - ETH: 
+      - address: ["0x6BFaD42cFC4EfC96f529D786D643Ff4A8B89FA52"]
+
+Gnosis_Chain:
+  ethereum:
+    - wETH: 
+      - address: ["0x88ad09518695c6c3712AC10a214bE5109a655671"]
+    - stETH: 
+      - address: ["0x88ad09518695c6c3712AC10a214bE5109a655671"]
+    - rETH: 
+      - address: ["0x88ad09518695c6c3712AC10a214bE5109a655671"]
+
+SUI:
+  ethereum:
+    - wETH: 
+      - address: ["0x312e67b47A2A29AE200184949093D92369F80B53"]
