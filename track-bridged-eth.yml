@@ -58,7 +58,7 @@ Zksync:
   ethereum:
     - ETH: 
       - address: ["0xD7f9f54194C633F36CCD5F3da84ad4a1c38cB2cB"]
-    - stETH: 
+    - wstETH: 
       - address: ["0x41527B2d03844dB6b0945f25702cB958b6d55989"]
 
 Linea:
