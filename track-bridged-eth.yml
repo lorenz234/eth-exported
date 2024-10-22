@@ -27,7 +27,7 @@ Base:
 Optimism:
   ethereum:
     - ETH: 
-      - address: ["0xbEb5Fc579115071764c7423A4f12eDde41f106Ed"]
+      - address: ["0xbEb5Fc579115071764c7423A4f12eDde41f106Ed", "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"]
     - wstETH: 
       - address: ["0x76943C0D61395d8F2edF9060e1533529cAe05dE6"]
 
