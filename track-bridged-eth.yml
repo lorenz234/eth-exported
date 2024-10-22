@@ -11,7 +11,7 @@ WETH:
 Arbitrum:
   ethereum:
     - ETH:
-      - address: ["0x8315177ab297ba92a06054ce80a67ed4dbd7ed3a"]
+      - address: ["0x8315177ab297ba92a06054ce80a67ed4dbd7ed3a", "0x011B6E24FfB0B5f5fCc564cf4183C5BBBc96D515"]
     - wstETH:
       - address: ["0x0F25c1DC2a9922304f2eac71DCa9B07E310e8E5a"]
 
@@ -140,3 +140,8 @@ SUI:
   ethereum:
     - wETH: 
       - address: ["0x312e67b47A2A29AE200184949093D92369F80B53"]
+
+Worldchain:
+  ethereum:
+    - ETH: 
+      - address: ["0xd5ec14a83B7d95BE1E2Ac12523e2dEE12Cbeea6C"]
