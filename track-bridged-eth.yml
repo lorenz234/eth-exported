@@ -3,11 +3,6 @@ Beacon_chain_deposits:
     - ETH:
       - address: ["0x00000000219ab540356cbb839cbe05303d7705fa"]
 
-WETH:
-  ethereum:
-    - ETH:
-      - address: ["0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"]
-
 Arbitrum:
   ethereum:
     - ETH:
@@ -50,14 +45,14 @@ Blast:
 Mantle:
   ethereum:
     - ETH: 
-      - address: ["0xc54cb22944F2bE476E02dECfCD7e3E7d3e15A8Fb"]
+      - address: ["0xc54cb22944F2bE476E02dECfCD7e3E7d3e15A8Fb", "0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"]
     - mETH: 
       - address: ["0x95fC37A27a2f68e3A647CDc081F0A89bb47c3012"]
 
 Zksync:
   ethereum:
     - ETH: 
-      - address: ["0xD7f9f54194C633F36CCD5F3da84ad4a1c38cB2cB"]
+      - address: ["0xD7f9f54194C633F36CCD5F3da84ad4a1c38cB2cB", "0x32400084C286CF3E17e7B677ea9583e60a000324"]
     - wstETH: 
       - address: ["0x41527B2d03844dB6b0945f25702cB958b6d55989"]
 
@@ -103,14 +98,16 @@ Polygon_POS:
 Ronin:
   ethereum:
     - ETH: 
-      - address: ["0x64192819Ac13Ef72bF6b5AE239AC672B43a9AF08"]
+      - address: ["0x64192819Ac13Ef72bF6b5AE239AC672B43a9AF08", "0x1A2a1c938CE3eC39b6D47113c7955bAa9DD454F2"]
+    - wETH: 
+      - address: ["0x1A2a1c938CE3eC39b6D47113c7955bAa9DD454F2"]
 
 Avalanche:
   ethereum:
     - ETH: 
       - address: ["0x8EB8a3b98659Cce290402893d0123abb75E3ab28"]
     - wETH: 
-      - address: ["0x8EB8a3b98659Cce290402893d0123abb75E3ab28"]
+      - address: ["0x8EB8a3b98659Cce290402893d0123abb75E3ab28", "0xE78388b4CE79068e89Bf8aA7f218eF6b9AB0e9d0"]
 
 PulseChain:
   ethereum:
@@ -145,3 +142,13 @@ Worldchain:
   ethereum:
     - ETH: 
       - address: ["0xd5ec14a83B7d95BE1E2Ac12523e2dEE12Cbeea6C"]
+
+Sollet:
+  ethereum:
+    - ETH: 
+      - address: ["0xeae57ce9cc1984F202e15e038B964bb8bdF7229a"]
+
+Wormhole:
+  ethereum:
+    - wETH:
+      - address: ["0x3ee18B2214AFF97000D974cf647E7C347E8fa585"]
